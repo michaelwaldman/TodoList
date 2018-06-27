@@ -1,5 +1,5 @@
 # TodoList
-# Project 1 - *Name of App Here*
+# Project 1 - *Michael's Groundbreaking Todo List App*
 
 **TodoList** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -29,8 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+It was difficult to bridge together the more abstract concepts/objects provided in the Android SDK, for example, object adapters to be able to work with different data types. This was my first time using XML in conjunction with Java, so I initially struggled to understand the effect/use of the XML for how our design layout worked, but I came to understand how it facilitates the design. 
 ## License
 
     Copyright [2018] [Michael Waldman]
